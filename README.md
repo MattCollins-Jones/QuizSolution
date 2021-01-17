@@ -5,7 +5,7 @@ This solution is based on Dataverse but the same principle can be applied to any
 
 To install this solution.
 
-1. Download and unzip the File
+1. Download the latest solution: https://github.com/MattCollins-Jones/QuizSolution/releases
 2. Go to the target Dataverse Environment in make.powerapps.com and choose import
 3. Import solution
 4. When prompted to, create or choose new connection references
